@@ -48,7 +48,7 @@ or other working environment.
 
 ## Tutorial
 
-Use the [tutorial](https://github.com/BYUCS260/lab1/blob/master/tutorial.md)
+Use the [tutorial](../blob/master/tutorial.md)
 in the Wiki for tips on using Bootstrap and creating grid layouts.
 
 ## Web design criteria
