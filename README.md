@@ -48,7 +48,7 @@ or other working environment.
 
 ## Tutorial
 
-Use the [tutorial](../master/tutorial.md)
+Use the [tutorial](tutorial.md)
 in the Wiki for tips on using Bootstrap and creating grid layouts.
 
 ## Web design criteria
