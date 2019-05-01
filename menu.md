@@ -105,4 +105,4 @@ While viewing your site in a browser, open the developer tools. On Firefox, for 
 
 ## On your own
 
-Modify your menu look how you want.
+Modify your menu to look the way you want it to.
