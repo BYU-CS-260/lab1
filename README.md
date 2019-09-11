@@ -23,8 +23,7 @@ HTML and CSS. The website you build must include:
   visitor a little about him or her.
 
 There are many photographer web pages you can find with Google. Here
-is an example of a basic page with some of the features you will
-create: [http://www.jocilynmccleve.com/](http://www.jocilynmccleve.com/).
+are several examples: [https://www.sitebuilderreport.com/inspiration/photography-website-examples](https://www.sitebuilderreport.com/inspiration/photography-website-examples).
 
 In most professional projects you are expected to use original images
 or images that are licensed for use with [Creative
@@ -68,7 +67,7 @@ to review this. The most important principles are:
 ## Submission
 
 Submit the URL for your website, which should be running on your
-DigitalOcean server.
+web server.
 
 ## Rubric for Grading
 
