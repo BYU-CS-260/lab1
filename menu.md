@@ -1,10 +1,6 @@
 
 In this part of the lab, you're going to learn how to use the [Bootstrap](https://getbootstrap.com/) library to build a menu for a website.
 
-## Preface
-
-I highly recommend you install a code formatter for your editor. This will automatically indent your code for you, so that your code is always easy to read. I used [beautify](https://atom.io/packages/atom-beautify) for Atom, and set it up so that it will automatically indent my code when I save the file.
-
 ## Get Bootstrap
 
 Visit the [Introduction](https://getbootstrap.com/docs/4.1/getting-started/introduction/) page for Bootstrap, and at the top you will see how to link to Bootstrap in your HTML files. Copy the link to the style sheet and put it in `index.html` so it looks like this:
@@ -36,13 +32,13 @@ On the Bootstrap Introduction page, click on "Components" in the menu on the lef
 
 Scroll down to the [Nav section](https://getbootstrap.com/docs/4.1/components/navbar/#nav) and copy the code you see there. Place it in `index.html`, right after the `body` tag.
 
-Start a Python web server:
+If you are not using cloud9, you can start a Python web server:
 
 ```
 python3 -m http.server
 ```
 
-and view your page in a browser. You should see this:
+and view your page in a browser. If you are using cloud9, you must make sure that your files are in the "html" folder and they should be served by your web server.  You should see this:
 
 ![screenshot of default Bootstrap navbar](https://github.com/BYU-CS-260-Winter-2019/lab1/blob/master/images/screenshots/navbar-default.png)
 
